@@ -2,7 +2,7 @@
   "audio": {
     "hasPlaylist": false,
     "isRealtime": true,
-    "streamUrl": "http://DEIN-STREAM",
+    "streamUrl": "http://liveradio.swr.de/sw282p3/swr3/play.mp3",
     "streamType": "liveRadio"
   },
   "imageUrl": "",
